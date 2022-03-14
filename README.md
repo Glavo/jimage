@@ -1,6 +1,6 @@
 # JImage 
 
-This library is used to read Jimage files on Java 8 or higher.
+This library is used to read Jimage files.
 It was extracted from the OpenJDK 17.0.2 source code, the public replacement for `jdk.internal.jimage`,
 and it works on Java 8 and above.
 
